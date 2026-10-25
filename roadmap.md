@@ -1,0 +1,19 @@
+# Roadmap
+- [ ] Switch new uploads to Mr Frank CDN and MongoDB; verify upload, status, exact import limits and admin access with securely saved credentials.
+- [x] Diagnose and verify strict burn-after-import enforcement
+- [x] Add date/time and rooted-phone troubleshooting FAQ with WhatsApp contact
+- [x] 30-min expiry (record kept)
+- [x] Admin portal at /auth?admin listing all files
+- [x] Liquid glass UI, cool copy, status checker, "Made by Mr Frank" footer
+- [x] Hide Lovable badge, metadata for cloudvpn.mrfrankofc.com
+- [x] Download limit option (burn after 1, 2-5, custom)
+- [x] Publish requested
+- [x] Custom expiry time
+- [x] Site logo + favicon
+- [x] Browser-blocking on download links + admin access log
+- [x] Burn after 1 download is the default limit
+- [x] Publish the burn-after-1 default
+- [x] Bind download links to the first importing network/app identity, with atomic limits and verification
+- [x] Diagnose premature expiry and prevent blocked tools from burning links
+- [x] Close further admin account registration and verify existing admin access
+- [x] Verify download security and expiry end to end

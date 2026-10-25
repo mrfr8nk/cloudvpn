@@ -1,0 +1,1 @@
+ALTER TABLE public.shared_files ADD COLUMN max_downloads integer;
